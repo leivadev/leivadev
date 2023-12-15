@@ -6,7 +6,7 @@ Willing to learn new things every day to improve my skills. Currently studying m
 - 💻 I’m looking to collaborate on full-stack web projects.
 - 📫 How to reach me: **luis.leivag23@gmail.com**
 - ⚡ Cool fact: I love **dogs** 🐕 and **cats** 🐈!
-- <img src="https://www.codewars.com/users/Luislev/badges/small"/>
+- <a href="https://www.codewars.com/users/Luislev" target="_blank" rel="noreferrer"><img src="https://www.codewars.com/users/Luislev/badges/small"/>
 - ![](https://komarev.com/ghpvc/?username=luislev&color=green&style=for-the-badge)
 ---
 ## Technologies:
