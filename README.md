@@ -10,7 +10,7 @@ Willing to learn new things every day to improve my skills. Currently studying m
 
 <a href="https://www.codewars.com/users/Luislev" target="_blank" rel="noreferrer"><img src="https://www.codewars.com/users/Luislev/badges/small"/>
 
-![](https://komarev.com/ghpvc/?username=luislev&color=green&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=leivadev&color=green&style=for-the-badge)
 
 ### 🎒 Skills
 
@@ -38,10 +38,10 @@ Willing to learn new things every day to improve my skills. Currently studying m
 
 ### My GitHub Stats
 
-<a href="http://www.github.com/luislev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=luislev&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/leivadev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=leivadev&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/luislev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luislev&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/leivadev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leivadev&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ### 👨🏻‍💻 Projects currently working on
 
-<div width="100%" align="center"><a href="https://github.com/luislev/sign-up-form-bluenred" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=luislev&repo=sign-up-form-bluenred&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/luislev/REST-country-flag-api" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=luislev&repo=REST-country-flag-api&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/leivadev/sign-up-form-bluenred" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=leivadev&repo=sign-up-form-bluenred&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/leivadev/REST-country-flag-api" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=leivadev&repo=REST-country-flag-api&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
