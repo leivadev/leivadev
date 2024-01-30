@@ -8,7 +8,7 @@ Willing to learn new things every day to improve my skills. Currently studying m
 - 📫 You can contact me at [luis.leivag23@gmail.com](mailto:luis.leivag23@gmail.com)
 - ⚡ Cool fact about me: I'm a big fan of Formula 1 <img alt="F1 Logo" style='width: 3rem' src='https://upload.wikimedia.org/wikipedia/commons/3/33/F1.svg'>
 
-<a href="https://www.codewars.com/users/Luislev" target="_blank" rel="noreferrer"><img src="https://www.codewars.com/users/Luislev/badges/small"/>
+<a href="https://www.codewars.com/users/Leivadev" target="_blank" rel="noreferrer"><img src="https://www.codewars.com/users/Leivadev/badges/small"/>
 
 ![](https://komarev.com/ghpvc/?username=leivadev&color=green&style=for-the-badge)
 
