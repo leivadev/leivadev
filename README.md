@@ -21,7 +21,6 @@ Willing to learn new things every day to improve my skills. Currently studying m
 </br>
 ![React](https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)
 ![Sass](https://img.shields.io/badge/SASS-CD6799?style=for-the-badge&logo=sass&logoColor=white&labelColor=101010)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=101010)
 ![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white&labelColor=101010)
 </br>
 ![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)
