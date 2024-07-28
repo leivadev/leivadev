@@ -2,7 +2,7 @@
 
 ### Full-Stack Web Developer & Software Development Student based in Panama <img alt="Panama Flag" style='height: 1rem' src='https://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg'>
 
-Willing to learn new things every day to improve my skills. Currently studying multiple topics like Python Programming, Full-Stack Web Development, UI/UX design and Cloud Computing.
+Currently studying multiple topics like System Designs, Full-Stack Web Development, UI/UX design and Cloud Computing.
 - 🧠  I'm learning **React** <img alt="React Logo" style='height: 1rem' src='https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg'>, **Astro** <img alt="Astro Logo" style='height: 1rem' src='https://astro.build/assets/press/astro-icon-light-gradient.png'> and **Tailwind CSS** <img alt="Tailwind CSS Logo" style='height: 1rem' src='https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg'>
 - 💻 I’m open to collaborate on full-stack web projects.
 - 📫 You can contact me at [luis.leivag23@gmail.com](mailto:luis.leivag23@gmail.com)
