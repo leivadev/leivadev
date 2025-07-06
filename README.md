@@ -1,6 +1,6 @@
-<h1 align='center'>Hi 👋🏼, my name is Luis Leiva</h1>
+<h1 align='center'>Hey there! My name is Luis Leiva</h1>
 
-### Full-Stack Web Developer & Software Development Student based in Panama <img alt="Panama Flag" style='height: 1rem' src='https://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg'>
+### Full-Stack Developer & Software Development Student based in Panama <img alt="Panama Flag" style='height: 1rem' src='https://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg'>
 
 Currently studying multiple topics like Software Design and Architecture, Full-Stack Web Development and Cloud Computing.
 - 🧠  Currently learning about AI Agents, AWS and API Design.
