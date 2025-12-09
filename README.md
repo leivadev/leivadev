@@ -5,7 +5,7 @@
 Currently studying multiple topics like Software Design and Architecture, Full-Stack Web Development and Cloud Computing.
 - 🧠  Currently learning about AI Agents, AWS and API Design.
 - 💻 I’m open to collaborate on full-stack web projects.
-- 📫 You can contact me at [luis.leivag23@gmail.com](mailto:luis.leivag23@gmail.com)
+- 📫 You can contact me at [contact@leivadev.com](mailto:contact@leivadev.com)
 - ⚡ Cool fact about me: I'm a big fan of Formula 1 <img alt="F1 Logo" style='width: 3rem' src='https://upload.wikimedia.org/wikipedia/commons/3/33/F1.svg'>
 
 <a href="https://www.codewars.com/users/Leivadev" target="_blank" rel="noreferrer"><img src="https://www.codewars.com/users/Leivadev/badges/small"/>
